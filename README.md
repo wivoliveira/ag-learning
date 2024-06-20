@@ -1,11 +1,11 @@
-# ag_learning
+# ag-learning
 A multilevel agglomerative learning strategy for remote sensing image classification.
 
 
 ## Installation
 
 ```bash
-pip install ag_learning
+pip install ag-learning
 ```
 
 
